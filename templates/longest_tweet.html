@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1> This is the tweet with the most non-whitespace characters: </h1>
+<p> {{longest_tweet.text}} </p>
+<i>posted by</i> <strong>@{{ user.username }}</strong></li><br><br>
+
+
+{% endblock %}
