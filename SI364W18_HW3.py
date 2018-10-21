@@ -1,7 +1,7 @@
 ## SI 364 - Winter 2018
 ## HW 3
 
-#I worked with Dani Meyerson, John Falcone, and Lauren Sigurdson.
+#I worked with Dani Meyerson on the whole thing, and John Falcone and Lauren Sigurdson on the first half.
 
 ####################
 ## Import statements
